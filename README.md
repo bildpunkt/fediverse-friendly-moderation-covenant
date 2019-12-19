@@ -13,6 +13,7 @@ Do you have any suggestions for the covenant? Is the wording wrong or the gramma
 ## Who's using the Covenant?
 
 * [desu.social](https://desu.social)
+* [floppy.tokyo](https://floppy.tokyo/)
 
 Also using the Covenant and want to be shown in this list? Feel free to open a PR to add your instance here or contact [pixel@desu.social](https://desu.social/@pixel)!
 
