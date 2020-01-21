@@ -15,6 +15,7 @@ Do you have any suggestions for the covenant? Is the wording wrong or the gramma
 * [desu.social](https://desu.social)
 * [floppy.tokyo](https://floppy.tokyo/)
 * [fedi.absturztau.be](https://fedi.absturztau.be)
+* [jorts.online](https://jorts.online)
 
 Also using the Covenant and want to be shown in this list? Feel free to open a PR to add your instance here or contact [pixel@desu.social](https://desu.social/@pixel)!
 
