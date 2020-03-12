@@ -17,6 +17,7 @@ Do you have any suggestions for the covenant? Is the wording wrong or the gramma
 * [fedi.absturztau.be](https://fedi.absturztau.be)
 * [jorts.online](https://jorts.online)
 * [expired.mentality.rip](https://expired.mentality.rip)
+* [pleroma.bunni.eu](https://pleroma.bunni.eu)
 
 Also using the Covenant and want to be shown in this list? Feel free to open a PR to add your instance here or contact [pixel@desu.social](https://desu.social/@pixel)!
 
