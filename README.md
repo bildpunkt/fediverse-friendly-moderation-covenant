@@ -18,6 +18,8 @@ Do you have any suggestions for the covenant? Is the wording wrong or the gramma
 * [jorts.online](https://jorts.online)
 * [expired.mentality.rip](https://expired.mentality.rip)
 * [pleroma.bunni.eu](https://pleroma.bunni.eu)
+* [cdrom.tokyo](https://cdrom.tokyo)
+* [neue.city](https://neue.city)
 
 Also using the Covenant and want to be shown in this list? Feel free to open a PR to add your instance here or contact [pixel@desu.social](https://desu.social/@pixel)!
 
