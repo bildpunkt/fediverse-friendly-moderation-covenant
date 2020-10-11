@@ -15,6 +15,7 @@ Do you have any suggestions for the covenant? Is the wording wrong or the gramma
 * [desu.social](https://desu.social)
 * [floppy.tokyo](https://floppy.tokyo/)
 * [fedi.absturztau.be](https://fedi.absturztau.be)
+* [gentoo.live](https://gentoo.live)
 * [jorts.online](https://jorts.online)
 * [expired.mentality.rip](https://expired.mentality.rip)
 * [pleroma.bunni.eu](https://pleroma.bunni.eu)
