@@ -23,6 +23,7 @@ Do you have any suggestions for the covenant? Is the wording wrong or the gramma
 * [neue.city](https://neue.city)
 * [nixnet.social](https://nixnet.social)
 * [udongein.xyz](https://udongein.xyz)
+* [kitsune.cafe](https://kitsune.cafe)
 
 Also using the Covenant and want to be shown in this list? Feel free to open a PR to add your instance here or contact [pixel@desu.social](https://desu.social/@pixel)!
 
