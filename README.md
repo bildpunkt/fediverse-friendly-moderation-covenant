@@ -27,6 +27,7 @@ Do you have any suggestions for the covenant? Is the wording wrong or the gramma
 * [disqordia.space](https://disqordia.space)
 * [cybre.city](https://cybre.city/)
 * [corteximplant.com](https://corteximplant.com/)
+* [stereophonic.space](https://stereophonic.space)
 
 Also using the Covenant and want to be shown in this list? Feel free to open a PR to add your instance here or contact [pixel@desu.social](https://desu.social/@pixel)!
 
