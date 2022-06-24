@@ -13,17 +13,13 @@ Do you have any suggestions for the covenant? Is the wording wrong or the gramma
 ## Who's using the Covenant?
 
 * [desu.social](https://desu.social)
-* [floppy.tokyo](https://floppy.tokyo/)
 * [fedi.absturztau.be](https://fedi.absturztau.be)
 * [gentoo.live](https://gentoo.live)
-* [jorts.online](https://jorts.online)
 * [expired.mentality.rip](https://expired.mentality.rip)
-* [pleroma.bunni.eu](https://pleroma.bunni.eu)
 * [cdrom.tokyo](https://cdrom.tokyo)
 * [neue.city](https://neue.city)
 * [nixnet.social](https://nixnet.social)
 * [udongein.xyz](https://udongein.xyz)
-* [kitsune.cafe](https://kitsune.cafe)
 * [disqordia.space](https://disqordia.space)
 * [cybre.city](https://cybre.city/)
 * [corteximplant.com](https://corteximplant.com/)
